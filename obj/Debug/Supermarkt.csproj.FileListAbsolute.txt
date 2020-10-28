@@ -1,0 +1,10 @@
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Supermarkt\Supermarkt\bin\Debug\Supermarkt.exe.config
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Supermarkt\Supermarkt\bin\Debug\Supermarkt.exe
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Supermarkt\Supermarkt\bin\Debug\Supermarkt.pdb
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Supermarkt\Supermarkt\obj\Debug\Supermarkt.csprojAssemblyReference.cache
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Supermarkt\Supermarkt\obj\Debug\Supermarkt.Properties.Resources.resources
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Supermarkt\Supermarkt\obj\Debug\Supermarkt.Supermarkt.resources
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Supermarkt\Supermarkt\obj\Debug\Supermarkt.csproj.GenerateResource.cache
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Supermarkt\Supermarkt\obj\Debug\Supermarkt.csproj.CoreCompileInputs.cache
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Supermarkt\Supermarkt\obj\Debug\Supermarkt.exe
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Supermarkt\Supermarkt\obj\Debug\Supermarkt.pdb
